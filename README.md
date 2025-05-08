@@ -93,8 +93,8 @@ flutter:
 
 <table>
   <tr>
-		<td><img src="https://github.com/user-attachments/assets/d4c1b85a-bd7b-49a3-bb04-0eee40551345e" width="400"/></td>
-		<td><img src="https://github.com/user-attachments/assets/8e7dcbd3-1d68-4f6b-b335-d7c45c5a31ce" width="400"/></td>
+	<td><img src="https://github.com/user-attachments/assets/d4c1b85a-bd7b-49a3-bb04-0eee40551345e" width="400"/></td>
+	<td><img src="https://github.com/user-attachments/assets/8e7dcbd3-1d68-4f6b-b335-d7c45c5a31ce" width="400"/></td>
   </tr>
 </table>
 
@@ -104,8 +104,41 @@ flutter:
 -	Size selector (XS | S | M | L | XL)
 -	“Add to Cart” button
 
+<table>
+  <tr>
+	<td><img src="https://github.com/user-attachments/assets/b0c15ab0-af17-4a7b-aad1-5ef52d4a0f5e" width="400"/></td>
+	<td><img src="https://github.com/user-attachments/assets/4ca247dd-0a66-42ad-a422-65874e174f12" width="400"/></td>
+  </tr>
+</table>
+
+
 3.	Cart Page
 -	Subtotal at top
 -	List of items showing image, name, selected size, price
 -	Delete icon to remove each item
+
+<table>
+  <tr>
+	<td><img src="https://github.com/user-attachments/assets/e5dd6c6a-23f9-4124-be26-aa1adabe387c" width="400"/></td>
+	<td><img src="https://github.com/user-attachments/assets/b6883cde-0e90-4373-a876-1b20a9087b4a" width="400"/></td>
+  </tr>
+</table>
+
+## 7. Screen Shots On Edge
+
+<table>
+  <tr>
+	<td><img src="https://github.com/user-attachments/assets/53e5acdc-74ed-469c-9d88-62908235b25b" width="600"/></td>
+	<td><img src="https://github.com/user-attachments/assets/fb7ee0e9-a58a-41a5-98c2-095eab20a9ee" width="600"/></td>
+  </tr>
+</table>
+
+![image](https://github.com/user-attachments/assets/f416114e-48c3-4e1c-87bd-89700462f56f)
+
+
+## 8. Notes
+
+- Tapping “Add” on the products page adds the item in size M by default.
+- Tapping a product opens its detail page, where you choose a size before adding.
+
 
